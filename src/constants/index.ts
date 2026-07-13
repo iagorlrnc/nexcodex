@@ -179,7 +179,7 @@ export const FAQS: FAQItem[] = [
   {
     id: 'faq-1',
     question: 'Quanto tempo demora para desenvolver um projeto?',
-    answer: 'O tempo varia com base na complexidade. Landing Pages costumam levar entre 7 a 15 dias. Sistemas web customizados, SaaS e automações completas de fluxos variam de 30 a 90 dias úteis, divididos em etapas claras de entregas e testes.'
+    answer: 'O tempo varia com base na complexidade. Landing Pages costumam levar entre 7 a 15 dias. Sistemas web customizados e automações completas de fluxos variam de 30 a 90 dias úteis, divididos em etapas claras de entregas e testes.'
   },
   {
     id: 'faq-2',
