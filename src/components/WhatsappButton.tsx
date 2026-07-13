@@ -1,7 +1,7 @@
 import React from 'react';
 
 export const WhatsappButton: React.FC = () => {
-  const whatsappNumber = '5511999999999'; // matching footer number
+  const whatsappNumber = '5599999999999'; // matching footer number
   const message = encodeURIComponent('Olá! Gostaria de solicitar um orçamento para o meu projeto.');
   const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${message}`;
 
