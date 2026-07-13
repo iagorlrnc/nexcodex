@@ -105,7 +105,7 @@ export const TIMELINE: TimelineEvent[] = [
   {
     year: '2026',
     title: 'Consolidação e Expansão',
-    description: 'Nos posicionamos como a desenvolvedora premium de software de escolha para empresas que não abrem mão de design excepcional e engenharia robusta.'
+    description: 'Nos posicionamos como a desenvolvedora de software de escolha para empresas que não abrem mão de design excepcional e engenharia robusta.'
   }
 ];
 
@@ -130,7 +130,7 @@ export const DIFFERENTIALS: DifferentialItem[] = [
   },
   {
     id: 'responsive',
-    title: 'Design Responsivo Premium',
+    title: 'Design Responsivo',
     description: 'Sua plataforma funcionará perfeitamente e com layout deslumbrante em computadores, tablets, celulares e notebooks.',
     icon: 'Smartphone'
   },
@@ -179,7 +179,7 @@ export const FAQS: FAQItem[] = [
   {
     id: 'faq-1',
     question: 'Quanto tempo demora para desenvolver um projeto?',
-    answer: 'O tempo varia com base na complexidade. Landing Pages premium costumam levar entre 7 a 15 dias. Sistemas web customizados, SaaS e automações completas de fluxos variam de 30 a 90 dias úteis, divididos em etapas claras de entregas e testes.'
+    answer: 'O tempo varia com base na complexidade. Landing Pages costumam levar entre 7 a 15 dias. Sistemas web customizados, SaaS e automações completas de fluxos variam de 30 a 90 dias úteis, divididos em etapas claras de entregas e testes.'
   },
   {
     id: 'faq-2',
