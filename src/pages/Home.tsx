@@ -94,7 +94,7 @@ export const Home = () => {
             </h1>
             
             <p className="font-sans text-base md:text-lg text-text-light leading-relaxed max-w-2xl gsap-fade-up">
-              Desenvolvimento de sites modernos, sistemas sob medida,<br/>segurança de dados e integrações de APIs.
+              Desenvolvimento de sites modernos, sistemas sob medida, segurança de dados e integrações de APIs.
             </p>
 
             <div className="flex flex-wrap justify-center gap-4 mt-2 gsap-fade-up">
