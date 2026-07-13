@@ -82,11 +82,11 @@ export const Footer: React.FC = () => {
           </div>
           <div className="flex items-start gap-3">
             <Phone size={16} className="text-primary mt-0.5 shrink-0" />
-            <a href="tel:+5511999999999" className="hover:text-primary transition-colors">+55 (11) 99999-9999</a>
+            <a href="tel:+5599999999999" className="hover:text-primary transition-colors">+55 (99) 99999-9999</a>
           </div>
           <div className="flex items-start gap-3">
             <MapPin size={16} className="text-primary mt-0.5 shrink-0" />
-            <span>São Paulo, SP — Atendimento Remoto</span>
+            <span>Palmas - TO</span>
           </div>
         </div>
 
